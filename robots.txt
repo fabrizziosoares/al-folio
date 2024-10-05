@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fabrizziosoares.github.io/sitemap.xml
